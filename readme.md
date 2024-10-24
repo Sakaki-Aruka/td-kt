@@ -7,10 +7,11 @@
      * OPTIONAL
      * - "-n": no duplicate download links
      * - "-u": converting a file-name to an uuid-style file-name.
-     * - "-d": specify a destination directory.
-     * - "-i": include image extensions list that is separated with ",".
-     * - "-e": exclude image extensions list that is separated with ",".
      * - "-s": log silent. (no downloading log)
+     * - "-d DIRECTORY": specify a destination directory.
+     * - "-i FILE,EXTENSIONS": include image extensions list that is separated with ",".
+     * - "-e FILE,EXTENSIONS": exclude image extensions list that is separated with ",".
+  
      *
      * NOT_IMPLEMENTED
      *
